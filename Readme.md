@@ -10,7 +10,7 @@
 ***
 **How to setup** - <br />
 * Clone the source code from git as per below command. <br />
-```git clone```
+```git clone https://github.com/Kari1807/OpenWeatherMap_APITestFramework.git```
 * Import the Project into IDE
 * Resolve all pom.xml dependencies by installing all the libraries. It can be resolved automatically using tool or use below command.
 <br />```mvn clean install```
@@ -24,7 +24,7 @@ Note -
 * Make sure to select the root directory before execution.
 * This command will only run the scenarios in feature file with tag as "@test".
 * Feature file path - ./src/test/resources/features folder.
-* Output folders - ./target (first time this folder will be auto genrated)
+* Output folders - ./target (first time this folder will be auto generated)
 ***
 **Where to find results under HTML report**
 The html report will be generated on below path.<br />
